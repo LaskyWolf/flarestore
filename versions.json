@@ -19,5 +19,15 @@
       "downloadURL": "https://github.com/LaskyWolf/flarestore/releases/download/woofplay-1.7/woofplay-1.7.ipa",
       "minOSVersion": "26.0"
     }
+  ],
+  "woofphoto": [
+    {
+      "version": "0.8",
+      "buildVersion": "89",
+      "date": "2026-11-27T12:45:07+00:00",
+      "size": 4075739,
+      "downloadURL": "https://github.com/LaskyWolf/flarestore/releases/download/woofphoto-0.8/woofphoto-0.8.ipa",
+      "minOSVersion": "26.0"
+    }
   ]
 }
