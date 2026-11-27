@@ -1,1 +1,13 @@
-{}
+{
+  "woofmusic": [
+    {
+      "version": "1.6.1",
+      "buildVersion": "228",
+      "date": "2026-11-27T12:44:38+00:00",
+      "size": 55275813,
+      "downloadURL": "https://github.com/LaskyWolf/flarestore/releases/download/woofmusic-1.6.1/woofmusic-1.6.1.ipa",
+      "localizedDescription": "Fixes for library sync, comments, notifications and YouTube Music data. Full notes: https://github.com/LaskyWolf/WoofMusic/releases/tag/v1.6.1",
+      "minOSVersion": "26.2"
+    }
+  ]
+}
